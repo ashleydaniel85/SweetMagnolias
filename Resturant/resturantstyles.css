@@ -1,0 +1,153 @@
+h1 {
+  text-align: center;
+  color: green;
+  text-decoration: none;
+}
+
+h2 {
+ text-align: center; 
+}
+
+body {
+  background-color: rgb(203,217,189);
+}
+.bodymenu {
+  background-color: rgb(235,221,231);
+}
+
+footer {
+  text-align:center;
+  font-size: 15px;
+  font-style: normal;
+  font-family: fantasy;
+  padding-bottom: 30px;
+
+}
+a {
+  display: inline;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+p {
+  font-feature-settings: "smcp" 1;
+  font-size: 20px;
+  padding-left: 10px;
+  font-style: normal;
+  position: relative; word-break: break-all;
+}
+table {
+  margin-right: auto;
+ width: 60%;
+ margin-left: 20%;
+ margin-right: 20%;
+ font-feature-settings: "smcp"1;
+  font-size: 20px;
+font-style: normal;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.th {
+  padding-top: 80px;
+  padding-right: 60px;
+  padding-left: 50px;
+  padding-bottom: 100px;
+}
+
+.td {
+  padding-left: .5em;
+  padding-right: .5em;
+  border: 1px solid #900;
+  background-color: #ffc;
+}
+
+#trHeader {
+  text-decoration: underline;
+  color: #900;
+}
+
+.centerCell {
+  text-align: center;
+}
+
+img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 40%;
+}
+
+.menu{
+  padding-left: 40px;
+  padding-right: 50px;
+  padding-top: 30px;
+  padding-bottom: 70px;
+}
+.p2 {
+ padding: 15px;  
+ margin-right: auto;
+ word-wrap: normal;
+ font-size: 15px;
+ font-style: normal;
+ font-family: 'Times New Roman', Times, serif;
+}
+
+.contact{
+font-size: 30px;
+font-style: normal;
+font-family: 'Times New Roman', Times, serif;
+display: block;
+text-align: center;
+position: absolute;
+}
+
+.float {
+  float: left;
+}
+
+h3 {
+  margin-right: auto;
+  padding: 15px;
+  display: inline;
+  font-size: 25px;
+}
+.link a:hover {
+color: green;
+font-weight: bold;
+
+}
+.nav-link:hover{
+color:pink
+
+}
+.p3 {
+    font-feature-settings: "smcp" 1;
+    font-size: 20px;
+    padding-left: 10px;
+    font-style: normal;
+
+}
+
+label {
+display: inline-block;
+text-align: center;
+
+}
+
+#noscript_padding {
+  padding-top: 1.9mm;
+  }
+
+  #noscript_warning {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 101;
+    text-align: end;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: red;
+    padding-top: 5pc 0 5px 0;
+  }
